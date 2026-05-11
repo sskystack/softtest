@@ -1,2 +1,1 @@
-# softtest
-软工第四次实验
+# softtest project - B3 branch
