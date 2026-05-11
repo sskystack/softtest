@@ -1,2 +1,1 @@
-# softtest
-软工第四次实验
+# softtest project - C4 branch
